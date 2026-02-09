@@ -6,13 +6,11 @@
 💼 **Current:** [Learning iOS development, Python, React JS]
 
 ## 🚀 About Me
-- 🔭 I'm currently working on [project name]
-- 🌱 I'm currently learning [technology/skill]
-- 👯 I'm looking to collaborate on [type of projects]
-- 🤔 I'm looking for help with [something specific]
-- 💬 Ask me about [your expertise areas]
-- 📫 How to reach me: [email/social links]
-- ⚡ Fun fact: [something interesting]
+- 🔭 I'm currently working on [iOS and AI]
+- 🌱 I'm currently learning [Python and Swift]
+- 👯 I'm looking to collaborate on [AI Projects]
+- 💬 Ask me about [iOS || AI]
+- 📫 How to reach me: [anasmalik0188@gmail.com]
 - ## 🛠️ Tech Stack
 **Languages:**  
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
