@@ -1,5 +1,5 @@
-## Hi there 👋
-# Hi there 👋 I'm [Anas Malik]
+
+ Hi there 👋 I'm Anas Malik
 
 🎯 **Role:** [iOS Developer/Data Scientist/etc.]  
 📍 **Location:** [Muzaffarabad Azad Kashmir, Pakistan]  
